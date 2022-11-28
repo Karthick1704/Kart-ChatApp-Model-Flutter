@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "146593306377",
+    "project_id": "kart-chat-app",
+    "storage_bucket": "kart-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146593306377:android:1d387c383b0042807b65d8",
+        "android_client_info": {
+          "package_name": "com.example.kart_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146593306377-qbp2pov932m7li263o9bues3qjs0t780.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kart_chatapp",
+            "certificate_hash": "be4965e3f513eeee29b497314571c2d330a70232"
+          }
+        },
+        {
+          "client_id": "146593306377-eqmt4ianp6u7lcpvlsfqp4iu5tlmda2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmdDx9ILMTL1OCHD0iLZKzwMw49gLt6I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146593306377-eqmt4ianp6u7lcpvlsfqp4iu5tlmda2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
