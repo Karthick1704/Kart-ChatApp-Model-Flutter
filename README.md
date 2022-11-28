@@ -1,6 +1,20 @@
-# kart_chatapp
+# kart_Chat-App
 
-A new Flutter project.
+A Working Flutter Project of messaging prototype with some basic working features.
+
+Basic Login and Register screen.
+Normal Home screen.
+Profile Screen/Chat screen.
+
+Things to do when you copy the code : 
+
+1. Create your own firebase account
+2. Creating the firebase authentication for email/pass
+3. Creating the firebase database to store/write/update the groups list and members list..
+
+Do follow the Backslash flutter for the clear view of project understanding.
+
+Ideas got form youtube/backslash flutter.
 
 ## Getting Started
 
